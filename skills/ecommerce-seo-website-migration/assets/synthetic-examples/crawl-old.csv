@@ -1,0 +1,7 @@
+Address,Status Code,Indexability,Title 1,H1-1,Canonical Link Element 1,Meta Robots 1,Word Count,Structured Data
+https://old-store.example/p/1001-alpine-tent,200,Indexable,Alpine Tent 2P | Trailhead,Alpine Tent 2P,https://old-store.example/p/1001-alpine-tent,"index, follow",640,Product
+https://old-store.example/p/1005-rain-shell,200,Indexable,Rain Shell | Trailhead,Rain Shell,https://old-store.example/p/1005-rain-shell,"index, follow",520,Product
+https://old-store.example/c/stoves,200,Indexable,Stoves | Trailhead,Stoves,https://old-store.example/c/stoves,"index, follow",380,
+https://old-store.example/guides/choosing-a-tent,200,Indexable,Choosing a tent | Trailhead,Choosing a tent,https://old-store.example/guides/choosing-a-tent,"index, follow",1800,Article
+https://old-store.example/p/1003-trail-stove-v2,200,Indexable,Trail Stove | Trailhead,Trail Stove,https://old-store.example/p/1003-trail-stove-v2,"index, follow",450,Product
+https://old-store.example/about,200,Non-Indexable,About | Trailhead,About us,https://old-store.example/about,noindex,410,

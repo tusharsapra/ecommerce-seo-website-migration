@@ -1,0 +1,8 @@
+page_url,hreflang,alternate_url
+https://store.example/products/alpine-tent-2p,en,https://store.example/products/alpine-tent-2p
+https://store.example/products/alpine-tent-2p,de,https://store.example/de/products/zelt-alpin
+https://store.example/products/alpine-tent-2p,x-default,https://store.example/products/alpine-tent-2p
+https://store.example/de/products/zelt-alpin,de,https://store.example/de/products/zelt-alpin
+https://store.example/products/rain-shell,en-uk,https://store.example/products/rain-shell
+https://store.example/products/rain-shell,de,/de/products/regenjacke
+https://store.example/collections/stoves,de,https://store.example/de/collections/kocher

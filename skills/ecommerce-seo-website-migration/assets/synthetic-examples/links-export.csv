@@ -1,0 +1,10 @@
+source_url,link_url,location,status_code
+https://store.example/products/alpine-tent-2p,https://store.example/https://store.example/products/tent-footprint,product description,404
+https://store.example/products/alpine-tent-2p,https://old-store.example/p/1009-tent-footprint,product description,301
+https://store.example/blogs/guides/tent-buying-guide,https://staging.store.example/collections/tents,article body,200
+https://store.example/blogs/guides/tent-buying-guide,../products/alpine-tent-2p,article body,404
+https://store.example/collections/stoves,https://preview.staging.store.example/products/trail-stove,collection description,200
+https://store.example/,javascript:void(0),navigation,
+https://store.example/,/collections/tents,navigation,200
+https://store.example/,http://store.example/pages/contact,footer,301
+https://store.example/de/products/zelt-alpin,/products/alpine-tent-2p,language selector,200

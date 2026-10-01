@@ -1,0 +1,6 @@
+interface:
+  display_name: "E-commerce SEO Migration"
+  short_description: "SEO-safe e-commerce migrations, from URL map to recovery"
+  default_prompt: "Help me with our website migration (plan, URL map, QA or recovery): "
+policy:
+  allow_implicit_invocation: true

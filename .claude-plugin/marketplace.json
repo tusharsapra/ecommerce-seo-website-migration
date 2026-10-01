@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ecommerce-seo-website-migration",
+  "description": "E-commerce SEO website migration skill",
+  "owner": {
+    "name": "Tushar Sapra"
+  },
+  "plugins": [
+    {
+      "name": "ecommerce-seo-website-migration",
+      "description": "Plan, map, QA and recover an e-commerce website migration for SEO.",
+      "version": "1.0.0",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

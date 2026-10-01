@@ -1,0 +1,20 @@
+{
+  "name": "ecommerce-seo-website-migration",
+  "interface": {
+    "displayName": "E-commerce SEO Migration"
+  },
+  "plugins": [
+    {
+      "name": "ecommerce-seo-website-migration",
+      "source": {
+        "source": "url",
+        "url": "./"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

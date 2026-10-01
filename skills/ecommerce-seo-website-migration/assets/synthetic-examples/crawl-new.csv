@@ -1,0 +1,8 @@
+Address,Status Code,Indexability,Title 1,H1-1,Canonical Link Element 1,Meta Robots 1,Word Count,Structured Data
+https://store.example/products/alpine-tent-2p,200,Indexable,Alpine Tent 2P | Trailhead,Alpine Tent 2P,https://store.example/products/alpine-tent-2p,"index, follow",610,Product
+https://store.example/products/rain-shell,200,Non-Indexable,Rain Shell | Trailhead,,https://staging.store.example/products/rain-shell,noindex,500,Product
+https://store.example/collections/stoves,404,Non-Indexable,,,,,,
+https://store.example/blogs/guides/tent-buying-guide,200,Indexable,Tent buying guide | Trailhead,Tent buying guide,https://store.example/blogs/guides/tent-buying-guide,"index, follow",700,
+https://store.example/products/trail-stove,200,Indexable,Trail Stove | Trailhead,Trail Stove,https://store.example/products/trail-stove,"index, follow",440,Product
+https://store.example/,200,Indexable,Trailhead Supply,Trailhead Supply,https://store.example/,"index, follow",300,
+https://store.example/pages/about,200,Non-Indexable,About | Trailhead,About us,https://store.example/pages/about,noindex,400,

@@ -1,0 +1,10 @@
+{
+  "name": "ecommerce-seo-website-migration",
+  "description": "Plan, map, QA and recover an e-commerce website migration for SEO: URL decision maps, hop-by-hop redirect checks, link and hreflang QA, crawl and performance comparison by mapped page group, developer handoffs and launch readiness. Never promises traffic preservation or invents results.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Tushar Sapra"
+  },
+  "license": "MIT",
+  "keywords": ["seo", "website-migration", "redirects", "ecommerce", "shopify", "hreflang", "technical-seo", "marketing"]
+}
