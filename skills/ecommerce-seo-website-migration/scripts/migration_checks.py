@@ -358,6 +358,8 @@ def evaluate(row, t):
     dest = row.get("destination_url", "")
     if d == "investigate" or not d:
         return "not_tested", ["no decision to test"]
+    if d not in ("redirect", "consolidate", "retain", "remove"):
+        return "not_tested", ["unrecognised disposition: %s" % d]
     if t["error"] and not t["hops"]:
         return "blocked", ["could not reach the source: %s" % t["error"]]
     problems = []
